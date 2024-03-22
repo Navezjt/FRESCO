@@ -28,4 +28,4 @@ after ebsynth (Run Propagation (Ebsynth) needs High-RAM colab 😐)
 https://github.com/camenduru/FRESCO-jupyter/assets/54370274/e7f90248-90d4-4bef-958f-ed8147924a29
 
 ### 🏢 Sponsor
-https://modelslab.com
+https://github.com/camenduru?tab=repositories
